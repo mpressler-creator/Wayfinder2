@@ -1,0 +1,9 @@
+:root {
+  --bg: #050816; --card: #111827; --accent: #38bdf8;
+  --text: #e5e7eb; --muted: #9ca3af;
+}
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #0f172a 0, #020617 60%);
+  color: var(--text); font-family: system-ui, sans-serif;
+}
